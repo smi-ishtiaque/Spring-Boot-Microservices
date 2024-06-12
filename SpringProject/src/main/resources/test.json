@@ -1,0 +1,31 @@
+[
+{
+  "title": "Software Engineer Needed With ID 2",
+  "description": "Test Description",
+  "minSalary": 30000,
+  "maxSalary": 40000,
+  "location": "New Jersey"
+},
+
+
+{
+  "name": "Company X",
+  "description": "Desc Company X"
+},
+
+  {
+    "title": "Software Engineer Needed With ID 2",
+    "description": "Test Description",
+    "minSalary": 30000,
+    "maxSalary": 40000,
+    "location": "New Jersey",
+    "company": {
+      "id": 1
+    }
+  },
+  {
+    "title": "Review Y",
+    "description": "Review Desc Company Y",
+    "rating": 4.0
+  }
+  ]
